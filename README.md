@@ -17,4 +17,4 @@ Python versão 3
 ## Repositório
 
 ~~~ git ~~~
-git clone https://github.com/Aclelino/sistema-bancario.git
+git clone https://github.com/Aclelino/sistemaBancario.git
